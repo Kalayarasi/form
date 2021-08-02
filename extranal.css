@@ -1,0 +1,50 @@
+
+    h1{
+        text-align: left;
+        color:blanchedalmond;
+        padding: 10px;
+        background-color: #224a8a;
+        background-position: top;
+    }
+    h3{
+        text-align: center;
+        color: black;
+        text-shadow: white;
+    } 
+    .button{ 
+        background-color: #4CAF50;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 18px;
+        font-weight: 400;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 10px;
+    }
+    .button:hover{
+        background-color:#5bcf5f;
+    }
+     #Female{
+        border: 1px solid;
+       margin: 5px;
+       padding: 5px;
+       display: inline-block;
+     }
+     #Male{
+        border: 1px solid;
+        margin: 5px;
+        padding: 5px;
+        display: inline-block;
+    }
+    #Custom{
+        border: 1px solid;
+        margin: 5px;
+        padding: 5px;
+        display: inline-block;
+    }
+
+
+
+
